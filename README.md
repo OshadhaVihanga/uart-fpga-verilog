@@ -77,7 +77,7 @@ run -all
 
 ## 🚀 Author
 
-Your Name
+Oshadha Vihanga Perera
 
 ---
 
