@@ -7,6 +7,8 @@ It supports serial communication with configurable baud rate and includes FPGA i
 
 ---
 
+## 🧩 System Block Diagram
+![UART Block Diagram](block_diagram.png)
 ## ⚙️ Features
 
 * UART TX & RX FSM design
